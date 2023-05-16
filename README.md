@@ -40,11 +40,10 @@ Navigate into the project directory:
 cd solar-autogtk
 ```
 
-Compile and run the application:
+Set permissions:
 
 ```
 chmod +x run.sh
-./run.sh
 ```
 
 

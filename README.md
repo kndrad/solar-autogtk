@@ -31,7 +31,7 @@ sudo apt-get install gnome-tweak-tool
 Clone the repository:
 
 ```
-git clone https://github.com/yourusername/solar-autogtk.git
+git clone https://github.com/kndrad/solar-autogtk.git
 ```
 
 Navigate into the project directory:
